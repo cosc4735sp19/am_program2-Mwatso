@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Totally Not Tracking You</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="no_location_data_provided">No location data provided</string>
+    <string name="service_not_available">No Service available</string>
+    <string name="invalid_lat_long_used">Invalide Latitude and Longitude</string>
+    <string name="no_address_found">No Address Found</string>
+    <string name="address_found">Address Found</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="photo_imageview">Is an imageview of</string>
+</resources>
