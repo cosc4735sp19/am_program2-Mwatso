@@ -12,3 +12,7 @@ Description:  (how to run the program, phone/emulator screen size, android versi
 
 Anything that doesn't work:
 - motovation to finish college... 2 months feels like forever
+
+# Graded: 50/50 #
+
+* Everything works as expected
